@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>employer</class>
+ <widget class="QDialog" name="employer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1080</width>
+    <height>720</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox_a">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>1061</width>
+     <height>701</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QGroupBox" name="groupBox_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>1021</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_cpemp">
+     <property name="geometry">
+      <rect>
+       <x>750</x>
+       <y>27</y>
+       <width>141</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Change Password</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_logout">
+     <property name="geometry">
+      <rect>
+       <x>911</x>
+       <y>27</y>
+       <width>80</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Logout</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_employer">
+     <property name="geometry">
+      <rect>
+       <x>160</x>
+       <y>29</y>
+       <width>331</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Employer</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_jhlogo">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>10</y>
+       <width>111</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_sj">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>150</y>
+      <width>301</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_pj">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>40</y>
+       <width>211</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Provide Job</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_pj">
+     <property name="geometry">
+      <rect>
+       <x>16</x>
+       <y>160</y>
+       <width>261</width>
+       <height>281</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_aj">
+    <property name="geometry">
+     <rect>
+      <x>372</x>
+      <y>150</y>
+      <width>301</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_vpj">
+     <property name="geometry">
+      <rect>
+       <x>41</x>
+       <y>40</y>
+       <width>221</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>View Provided Job</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_vpj">
+     <property name="geometry">
+      <rect>
+       <x>16</x>
+       <y>151</y>
+       <width>271</width>
+       <height>291</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_vp">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>150</y>
+      <width>291</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_vpemp">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>40</y>
+       <width>231</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>View Profile</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_vp">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>150</y>
+       <width>271</width>
+       <height>291</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
